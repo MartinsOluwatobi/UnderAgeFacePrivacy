@@ -1,6 +1,6 @@
 from ultralytics import YOLO
-from src.FaceDetection_Blurring import face_detection, blur_faces
-from src.Registry import yaml_loader, model_registry, load_checkpoint
+from FaceDetection_Blurring import face_detection, blur_faces
+from Registry import yaml_loader, model_registry, load_checkpoint
 import cv2 as cv
 from torchvision import transforms
 import torch

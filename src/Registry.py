@@ -1,5 +1,5 @@
 import yaml 
-from src.Models import Custom_cnn, server_resnet50
+from Models import Custom_cnn, server_resnet50
 import torch
 import os
 

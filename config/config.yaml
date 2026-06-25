@@ -20,4 +20,4 @@ training:
   num_worker: 4
 
 model_weight:
- model_path: 'weights/model.pt'
+ model_path: '/weights/model.pt'
